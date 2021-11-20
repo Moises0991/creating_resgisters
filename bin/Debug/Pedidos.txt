@@ -1,0 +1,144 @@
+Cliente:          Benito juarez
+Num Pedido:  1
+Monto Total:  1
+
+Cliente:          Benito juarez
+Num Pedido:  1
+Monto Total:  1
+
+Cliente:          Benito juarez
+Num Pedido:  1
+Monto Total:  1
+
+Cliente:          noe benjamin
+Num Pedido:  159
+Monto Total:  159
+
+Cliente:          noe benjamin
+Num Pedido:  159
+Monto Total:  159
+
+Cliente:          José López
+Num Pedido:  164
+Monto Total:  164
+
+Cliente:          moises soler
+Num Pedido:  232
+Monto Total:  232
+
+Cliente:          Benito juarez
+Num Pedido:  323
+Monto Total:  323
+
+Cliente:          Benito juarez
+Num Pedido:  323
+Monto Total:  323
+
+Cliente:          Benito juarez
+Num Pedido:  323
+Monto Total:  323
+
+Cliente:          Benito juarez
+Num Pedido:  323
+Monto Total:  323
+
+Cliente:          noe benjamin
+Num Pedido:  888
+Monto Total:  266400
+
+Cliente:          José López
+Num Pedido:  555
+Monto Total:  55500
+
+Cliente:          moises soler
+Num Pedido:  000
+Monto Total:  150
+
+Cliente:          
+Num Pedido:  
+Cliente:          
+Num Pedido:  
+Cliente:          444
+Num Pedido:  4
+Monto Total:  2200
+
+Cliente:          noe benjamin
+Num Pedido:  88
+Cliente:          noe benjamin
+Num Pedido:  88
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          1
+Num Pedido:  1
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+
+Cliente:          moises soler
+Num Pedido:  88
+Monto Total:  8800
+

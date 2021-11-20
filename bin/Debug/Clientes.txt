@@ -1,0 +1,45 @@
+ID:               	1666
+NOMBRE:   	moises soler
+DIRECCION:     	calle cantera 
+DESCUENTO:     	80
+
+ID:               	1667
+NOMBRE:   	noe benjamin
+DIRECCION:     	calle el padre
+DESCUENTO:     	100
+
+ID:               	1668
+NOMBRE:   	José López 
+DIRECCION:     	la tierra
+DESCUENTO:     	20
+
+ID:               	1670
+NOMBRE:   	Benito juarez
+DIRECCION:     	planeta azul
+DESCUENTO:     	20
+
+ID:               	4
+NOMBRE:   	4
+DIRECCION:     	4
+DESCUENTO:     	4
+
+ID:               	4
+NOMBRE:   	4
+DIRECCION:     	4
+DESCUENTO:     	4
+
+ID:               	4
+NOMBRE:   	4
+DIRECCION:     	4
+DESCUENTO:     	4
+
+ID:               	4
+NOMBRE:   	4
+DIRECCION:     	4
+DESCUENTO:     	4
+
+ID:               	4
+NOMBRE:   	4
+DIRECCION:     	4
+DESCUENTO:     	4
+

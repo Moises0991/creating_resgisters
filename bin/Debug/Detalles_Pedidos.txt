@@ -1,0 +1,193 @@
+Num Pedido:  1
+Articulo:  libreta
+Cantidad:  15
+Precio:  estuchera
+Precio:  50
+
+Num Pedido:  1
+Articulo:  libreta
+Cantidad:  15
+Precio:  estuchera
+Precio:  50
+
+Num Pedido:  1
+Articulo:  libreta
+Cantidad:  15
+Precio:  estuchera
+Precio:  50
+
+Num Pedido:  159
+Articulo:  borrador
+Cantidad:  5
+Precio:  estuchera
+Precio:  50
+
+Num Pedido:  159
+Articulo:  borrador
+Cantidad:  5
+Precio:  estuchera
+Precio:  50
+
+Num Pedido:  164
+Articulo:  mochila
+Cantidad:  66
+Precio:  300
+
+Num Pedido:  232
+Articulo:  borrador
+Cantidad:  5
+Precio:  3
+
+Num Pedido:  323
+Articulo:  estuchera
+Cantidad:  5
+Precio:  50
+
+Num Pedido:  323
+Articulo:  estuchera
+Cantidad:  5
+Precio:  50
+
+Num Pedido:  323
+Articulo:  estuchera
+Cantidad:  5
+Precio:  50
+
+Num Pedido:  323
+Articulo:  estuchera
+Cantidad:  5
+Precio:  50
+
+Num Pedido:  888
+Articulo:  mochila
+Cantidad:  3
+Precio:  300
+
+Num Pedido:  555
+Articulo:  libreta
+Cantidad:  2
+Precio:  100
+
+Num Pedido:  000
+Articulo:  estuchera
+Cantidad:  3
+Precio:  50
+
+Num Pedido:  
+Articulo:  
+Cantidad:  
+Num Pedido:  
+Articulo:  
+Cantidad:  
+Num Pedido:  4
+Articulo:  estuchera
+Cantidad:  44
+Precio:  50
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  3
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  3
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  1
+Articulo:  1
+Cantidad:  1
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+
+Num Pedido:  88
+Articulo:  libreta
+Cantidad:  88
+Precio:  100
+

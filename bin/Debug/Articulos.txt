@@ -1,0 +1,56 @@
+ID:               	123
+NOMBRE:   	estuchera
+PRECIO:     	50
+
+ID:               	147
+NOMBRE:   	libreta
+PRECIO:     	100
+
+ID:               	148
+NOMBRE:   	mochila
+PRECIO:     	300
+
+ID:               	149
+NOMBRE:   	borrador
+PRECIO:     	3
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
+ID:               	888
+NOMBRE:   	8
+PRECIO:     	8
+
+ID:               	888
+NOMBRE:   	8
+PRECIO:     	8
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
+ID:               	4
+NOMBRE:   	4
+PRECIO:     	4
+
